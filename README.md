@@ -1,5 +1,8 @@
 # Tech Jobs Fair Hackathon Bari 2024
 
+Link : https://trivia-quiz-challenge.onrender.com/
+
+
 L'obiettivo finale dell'attività è lavorare su di un progetto ripercorrendo le stesse modalità di lavoro in azienda.
 
 Lo strumento per raggiungere tale obiettivo sarà la realizzazione di un MVP di un progetto.
