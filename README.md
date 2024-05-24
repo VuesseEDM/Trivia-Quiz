@@ -2,7 +2,7 @@
 
 Link : https://trivia-quiz-challenge.onrender.com/
 
-![Preview](https://github.com/VuesseEDM/Trivia-Quiz/blob/main/img/photo_2024-05-24_11-14-02.jpg?raw=true)  
+<img src="https://github.com/VuesseEDM/Trivia-Quiz/blob/main/img/photo_2024-05-24_11-14-02.jpg?raw=true" alt="Preview" width="200"/>
 
 
 L'obiettivo finale dell'attività è lavorare su di un progetto ripercorrendo le stesse modalità di lavoro in azienda.
