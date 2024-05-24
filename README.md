@@ -2,6 +2,8 @@
 
 Link : https://trivia-quiz-challenge.onrender.com/
 
+![Preview]()  
+
 
 L'obiettivo finale dell'attività è lavorare su di un progetto ripercorrendo le stesse modalità di lavoro in azienda.
 
